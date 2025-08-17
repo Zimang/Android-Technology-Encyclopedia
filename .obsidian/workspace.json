@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "fde104ffeee46ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8762cd732a292ee4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c884aa7447b45b3a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61d64467e6a3ce19",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b117a88b707d9c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed2c2115c584d9d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "02f57e44edd4708c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SVLibUSBDialog",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e5f77d84f46f363e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f43d2c42d7464954",
+    "type": "split",
+    "children": [
+      {
+        "id": "982fb3ddd313db82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3500b102adb503d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "d1f323eb77c9c73b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FileOperationManager.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "FileOperationManager 的出链列表"
+            }
+          },
+          {
+            "id": "df39a33062295b62",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "500fef91951aeb22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "020c909354db21c9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "c884aa7447b45b3a",
+  "lastOpenFiles": [
+    "init",
+    "ModuleUSBMusicTrigger.md",
+    "SVUsbPictureApp.MainActivity.md",
+    "FileOperationManager.md",
+    "BasePictureActivity.md",
+    "QueryStateManager.md",
+    "SourceDialogUtil.md",
+    "SourceDialog.md",
+    "USB1DeviceStateObserver.md",
+    "USB2DeviceStateObserver.md",
+    "assets/{876DD016-3D61-43AD-949A-814A1AB1F131}.png",
+    "QueryStateObserver.md",
+    "IQueryPictureStateChangedListener.md",
+    "USB1QueryStateObserver.md",
+    "USB2QueryStateObserver.md",
+    "BootCompleteReceiver.md",
+    "USBStateReceiver.md",
+    "SVUsbPictureApp.md",
+    "ProjectUtils.md",
+    "keepLiveService.md",
+    "USBDeviceReceiver.md",
+    "框架.canvas",
+    "SVAudioApp.MainActivity.md",
+    "MediaPlaybackService.md",
+    "MusicUsbFragment.md",
+    "MusicVrManager.md",
+    "assets/{DA1466CD-8662-4130-A2F3-A1F8FD97B2B8}.png",
+    "LocalMusicPlayFragment.md",
+    "MusicPlaybackService.md",
+    "assets/{0B060330-432E-46AB-B5A7-49AEDFA6ECE8}.png",
+    "assets/{0AE47552-C615-4F32-AD5A-113DC5F71144}.png",
+    "assets/{DA97B4C9-4710-4332-9E3A-024A5260657E}.png",
+    "assets/{902D9212-2414-4927-95C7-18769CC230D2} 1.png",
+    "assets/{902D9212-2414-4927-95C7-18769CC230D2}.png",
+    "assets/{D006A6EB-46DD-453D-84B7-25C8D3B31E96} 1.png",
+    "assets/{D006A6EB-46DD-453D-84B7-25C8D3B31E96}.png",
+    "assets/SVModuleRadioRes1/src/main/AndroidManifest.xml",
+    "assets/SVModuleRadioRes1/src/main",
+    "assets/SVModuleRadioRes1/src",
+    "assets/SVModuleRadioRes1/consumer-rules.pro",
+    "assets/SVModuleRadioRes1/proguard-rules.pro",
+    "assets/SVModuleRadioRes1/build.gradle",
+    "assets/SVModuleRadioRes1",
+    "assets/SVModuleRadio/src/t19cint/java/com/desaysv/moduleradio/view/cursor/RadioCursor.java",
+    "assets/SVModuleRadio/src/t19cint/java/com/desaysv/moduleradio/view/cursor/HorizontalCursorView.java",
+    "assets/SVModuleRadio/src/t19cint/java/com/desaysv/moduleradio/view/cursor/OnFrequencyChangedListener.java",
+    "assets/SVModuleRadio/src/t19cint/res/mipmap-ldrtl/radio_player_singarm.png"
+  ]
+}

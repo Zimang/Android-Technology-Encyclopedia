@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "assets",
+  "trashOption": "none",
+  "userIgnoreFilters": [
+    "*.png",
+    "*.jpg"
+  ],
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false
+}
