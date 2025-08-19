@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c884aa7447b45b3a",
+            "id": "eb082e5f641a5d02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Execution.md",
+                "file": "Thread Class.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Atomic Execution"
-            }
-          },
-          {
-            "id": "87bfab54e271965e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "简化的并发.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "简化的并发"
-            }
-          },
-          {
-            "id": "095131359897b585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Synchronization.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Synchronization"
+              "title": "Thread Class"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,15 +189,18 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "87bfab54e271965e",
+  "active": "eb082e5f641a5d02",
   "lastOpenFiles": [
+    "Thread Class.md",
+    "Java Thread.md",
+    "Java 并发.md",
+    "Threads.md",
+    "简化的并发.md",
     "Visibility.md",
     "Atomic Execution.md",
     "Synchronization.md",
     "assets/{2FEA4506-7A79-4DE1-A362-7D55456AAFFA}.png",
     "assets",
-    "Threads.md",
-    "简化的并发.md",
     "init",
     "ModuleUSBMusicTrigger.md",
     "SVUsbPictureApp.MainActivity.md",
@@ -267,10 +221,7 @@
     "SVUsbPictureApp.md",
     "ProjectUtils.md",
     "keepLiveService.md",
-    "USBDeviceReceiver.md",
     "框架.canvas",
-    "SVAudioApp.MainActivity.md",
-    "MediaPlaybackService.md",
     "assets/{DA1466CD-8662-4130-A2F3-A1F8FD97B2B8}.png",
     "assets/{0B060330-432E-46AB-B5A7-49AEDFA6ECE8}.png",
     "assets/{0AE47552-C615-4F32-AD5A-113DC5F71144}.png",
